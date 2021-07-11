@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357376570970",
+    "project_id": "chodot-galeri",
+    "storage_bucket": "chodot-galeri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357376570970:android:0417ef4a15af513e224a63",
+        "android_client_info": {
+          "package_name": "com.abiyansa.chodotgaleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357376570970-l7mb121tn8tmn29u2eqaugk80hocjtcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkeixeGIn2ycTiX_P5GBaz4YC98G9k8uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357376570970-l7mb121tn8tmn29u2eqaugk80hocjtcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
