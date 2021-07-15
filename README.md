@@ -1,2 +1,5 @@
 # ChodotGaleri
-![image.jpeg]( {https://github.com/MayorBee404/ChodotGaleri/blob/master/1b1d467b-5543-4500-87f0-bf02d13ddadc.jpeg} )
+![List of plants](screenshots/phone_plant_list.png "A list of plants")
+![Plant details](screenshots/phone_plant_detail.png "Details for a specific plant")
+![My Garden](screenshots/phone_my_garden.png "Plants that have been added to your garden")
+
