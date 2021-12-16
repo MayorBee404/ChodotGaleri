@@ -1,4 +1,4 @@
-# ChodotGaleri
+# Aplikasi Android ChodotGaleri
 Aplikasi Android ddengan Menggunakan Firebase untuk Login 
 dan Menggunakan API Unsplash untuk Home nya
 
