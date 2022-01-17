@@ -1,4 +1,7 @@
-# Aplikasi Android ChodotGaleri
+# Android Basic Aplication
+*CHODOT GALLERY
+
+
 **Aplikasi Android Berbasis Java dengan Menggunakan Firebase untuk Login 
 dan Menggunakan API Unsplash untuk Home nya**
 
