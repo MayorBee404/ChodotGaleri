@@ -1,4 +1,4 @@
-# Android Basic Application
+# Android Basic Application Project
 *CHODOT GALLERY*
 
 
