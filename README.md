@@ -1,5 +1,5 @@
-# Android Basic Aplication
-*CHODOT GALLERY
+# Android Basic ApPlication
+*CHODOT GALLERY*
 
 
 **Aplikasi Android Berbasis Java dengan Menggunakan Firebase untuk Login 
