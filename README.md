@@ -17,7 +17,7 @@
      width="200" />
      
  #### Feature
-- [x] Menggunakan FireBase pada saat Login. (Terpenuhi) <strong>10 item</strong>.
+- [x] Menggunakan FireBase pada saat Login. (Terpenuhi)</strong>.
 - [x] Menggunakan RecyclerView. (Terpenuhi)</strong>.
 - [x] Menampilkan hasil Desain UI. (Terpenuhi) </strong>.
 - [x] Menggunakan API PIXEL. (Terpenuhi).</strong>
